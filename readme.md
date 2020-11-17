@@ -11,7 +11,7 @@ I am required to provide solutions for 3 problems specified below:
 ### Problem 1 ###
 1. Using the formula: n(n - 1)/2
 2. Using while loop
-3. Using recursion
+3. Using recursion + memoization
 
 ### Problem 2 ###
 - Done using [ReactJS](https://reactjs.org/) and [react-hook-form](https://react-hook-form.com/)
